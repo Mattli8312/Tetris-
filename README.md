@@ -11,3 +11,5 @@ Built Tetris using python and pygame.
     -Scoring System
     -Updating 2D Board
       -Deleting and Shifting rows accordingly
+-MainGame: For running the UI. Must install Pygame (through terminal or IDE)
+-Shapes: Controls main logic for tetriminos
